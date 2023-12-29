@@ -71,7 +71,7 @@ button {
 
 #loading {
   position: fixed;
-  background-image: url("../images/food-imgs.jpg");
+  background-color: #fff;
   background-size: cover;
   top: 0;
   bottom: 0;
